@@ -1,3 +1,10 @@
 body{
- min-width:300px;   
+ min-width:300px;
+ color: white;   
+}
+.cont{
+    background-color: #3aafa9;
+}
+.conta{
+    background-color: #57bc90;
 }
