@@ -1,2 +1,3 @@
 ﻿# IPL-Chrome-Extension
-![image](https://user-images.githubusercontent.com/80646391/235321689-c32f92e0-d567-4609-ada9-8491ec4bb772.png)
+![image](https://user-images.githubusercontent.com/80646391/235365528-320d9ad5-1ec3-4baa-964d-0f8c79753fef.png)
+
